@@ -1,4 +1,3 @@
-//function Footer() {
 const DataTable = () => {
     return (
 
